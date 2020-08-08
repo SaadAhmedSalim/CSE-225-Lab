@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1540193550 source:c:\users\asus\documents\unsortedlist_linkedlist\main.cpp
+	<iostream>
+	"UnsortedLinkedList.h"
+	"UnsortedLinkedList.cpp"
+
+1540193522 source:c:\users\asus\documents\unsortedlist_linkedlist\unsortedlinkedlist.cpp
+	<iostream>
+	"UnsortedLinkedList.h"
+
+1540192536 c:\users\asus\documents\unsortedlist_linkedlist\unsortedlinkedlist.h
+
+1540193522 c:\users\asus\documents\unsortedlist_linkedlist\unsortedlinkedlist.cpp
+	<iostream>
+	"UnsortedLinkedList.h"
+
