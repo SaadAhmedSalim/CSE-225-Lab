@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1542095222 source:c:\users\my pc\documents\matlab\queue_(linkedlist)\main.cpp
+	<iostream>
+	"QueueLinkedList.h"
+	"QueueLinkedList.cpp"
+
+1542094924 c:\users\my pc\documents\matlab\queue_(linkedlist)\queuelinkedlist.h
+
+1542095259 c:\users\my pc\documents\matlab\queue_(linkedlist)\queuelinkedlist.cpp
+	<iostream>
+	"QueueLinkedList.h"
+
+1542094720 source:c:\users\my pc\documents\matlab\queue_(linkedlist)\queuelinkedlist.cpp
+	<iostream>
+	"QueueLinkedList.h"
+
