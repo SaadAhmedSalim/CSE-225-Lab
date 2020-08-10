@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1540713676 source:c:\users\my pc\desktop\timestamp2\queue_array\main.cpp
+	<iostream>
+	"QueType.h"
+	"QueType.cpp"
+
+1540713218 source:c:\users\my pc\desktop\timestamp2\queue_array\quetype.cpp
+	"QueType.h"
+	<iostream>
+
+1540711574 c:\users\my pc\desktop\timestamp2\queue_array\quetype.h
+
+1540713218 c:\users\my pc\desktop\timestamp2\queue_array\quetype.cpp
+	"QueType.h"
+	<iostream>
+
