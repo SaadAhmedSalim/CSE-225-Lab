@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1540280959 source:c:\users\my pc\desktop\lab5\stacktype_array\main.cpp
+	<iostream>
+	"StackType.h"
+	"StackType.cpp"
+
+1540280528 source:c:\users\my pc\desktop\lab5\stacktype_array\stacktype.cpp
+	<iostream>
+	"StackType.h"
+
+1540280217 c:\users\my pc\desktop\lab5\stacktype_array\stacktype.h
+
+1540280528 c:\users\my pc\desktop\lab5\stacktype_array\stacktype.cpp
+	<iostream>
+	"StackType.h"
+
