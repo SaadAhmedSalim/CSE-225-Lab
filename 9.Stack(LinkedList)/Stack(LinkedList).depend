@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1541921932 source:e:\unsorted\stack(linkedlist)\stacklinkedlist.cpp
+	<iostream>
+	"stackLinkedList.h"
+
+1541921708 source:e:\unsorted\stack(linkedlist)\main.cpp
+	<iostream>
+	"stackLinkedList.h"
+	"stackLinkedList.cpp"
+
+1541921020 e:\unsorted\stack(linkedlist)\stacklinkedlist.h
+
+1541921932 e:\unsorted\stack(linkedlist)\stacklinkedlist.cpp
+	<iostream>
+	"stackLinkedList.h"
+
