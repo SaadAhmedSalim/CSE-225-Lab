@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1543133774 source:c:\users\my pc\desktop\binary_search_tree\binarysearchtree.cpp
+	"binarysearchtree.h"
+	"QueType.cpp"
+	<iostream>
+
+1543133760 source:c:\users\my pc\desktop\binary_search_tree\main.cpp
+	"QueType.h"
+	"binarysearchtree.h"
+	"binarysearchtree.cpp"
+	<iostream>
+
+1543130682 source:c:\users\my pc\desktop\binary_search_tree\quetype.cpp
+	"QueType.h"
+	<iostream>
+
+1543130682 c:\users\my pc\desktop\binary_search_tree\quetype.h
+
+1543131756 c:\users\my pc\desktop\binary_search_tree\binarysearchtree.h
+	"QueType.h"
+
+1543130682 c:\users\my pc\desktop\binary_search_tree\quetype.cpp
+	"QueType.h"
+	<iostream>
+
+1543133774 c:\users\my pc\desktop\binary_search_tree\binarysearchtree.cpp
+	"binarysearchtree.h"
+	"QueType.cpp"
+	<iostream>
+
